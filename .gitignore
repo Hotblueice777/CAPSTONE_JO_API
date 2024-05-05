@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+
+# Environment configuration files
+.env
+.env.*
+
+# Log files
+*.log
+npm-debug.log*
+
+# System-generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Build output directories
+/dist
+/build
+
+# Personal keys
+*.pem
